@@ -1,6 +1,9 @@
 # NYC Citi Bike Analysis 
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
+### Tableau Link
+[https://public.tableau.com/profile/eva.fuentes.lopez#!/vizhome/Challenge_15929745574220/BikesinDesMoinesvsNYC?publish=yes]
+
 ## Gender Breakdown
 ### NYC vs Des Moines
 1,530,272 M
@@ -27,3 +30,6 @@ Peak hours in NYC occured between the following hours: 9 a.m. and 4-8 p.m. The "
 ## Bike Repairs
 ### NYC vs Des Moines
 This slide is very similar to our slide that talked about bike utilization. Again, this is a great way to indicate which bikes need repairs sooner. We can use this same type of visualization in order to determine the progress of bike usage in Des Moines.
+
+## Final Thoughts
+Gender and age played a huge factor in determining whether or not CitiBike would be effective in another location (i.e. Des Moines). After analyzing the similarities between NYC and Des Moines with regards to types of customers (i.e. gender and age) and city attractions, it is evident that such a business would flourish in Des Moines.
